@@ -1,8 +1,8 @@
 {
-  "botName": "AkhiroBot",
-  "botPrefix": "/",
-  "botOwner": "AkhiroDev",
-  "contact": "https://facebook.com/certainly.francis",
+  "botName": "oceana",
+  "botPrefix": ".",
+  "botOwner": "icy",
+  "contact": "facebook.com/61551092522662",
   "botDev": "AkhiroDev & Yu3Bot & LiANE",
-  "botAdmins": []
+  "botAdmins": [61551092522662]
 }
